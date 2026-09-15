@@ -1,0 +1,6 @@
+Store,DayOfWeek,Date,Open,Promo,StateHoliday,SchoolHoliday,StoreType,Assortment,CompetitionDistance,CompetitionDistanceBand,CompetitionOpenSinceMonth,CompetitionOpenSinceYear,CompetitionAgeMonths,MonthsSinceCompetition,Promo2,Promo2SinceWeek,Promo2SinceYear,PromoInterval,WeekOfYear,DaysToHoliday,DaysAfterHoliday,IsSchoolHoliday,IsMonthEnd,IsWeekend,IsMonthStart,MonthPeriod,CompetitionPeriod,IsStateHoliday,IsHoliday,Customers,Store_id,Predicted_Sales,Predicted_Customers
+1,1,2015-07-01,1,1,0,1,c,a,1270.0,Near,9,2008,82,82,0,0,0,,27,0,0,1,0,0,1,Early,Long,0,0,500,1,4771.215344090777,499.947666216907
+2,2,2015-07-02,1,0,0,1,a,a,570.0,Near,11,2007,92,92,1,13,2010,"Jan,Apr,Jul,Oct",27,0,0,1,0,0,0,Early,Long,0,0,650,1,4839.530363919572,650.0032916405473
+3,3,2015-07-03,1,1,0,1,d,c,14130.0,Far,12,2006,103,103,0,0,0,,27,0,0,1,0,0,0,Early,Long,0,0,700,1,7526.918625697257,700.0006284724801
+4,4,2015-07-04,1,0,0,0,a,a,620.0,Near,9,2009,70,70,1,14,2011,"Jan,Apr,Jul,Oct",27,1,0,0,0,1,0,Early,Long,0,0,450,1,3520.91093275578,450.3235575200721
+5,5,2015-07-05,1,1,0,0,b,b,29910.0,Far,4,2010,63,63,1,22,2012,"Mar,Jun,Sept,Dec",27,1,1,0,0,1,0,Early,Long,0,0,800,1,6893.432313555138,799.8455396952289
